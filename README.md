@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ahaa89
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+AmirHossein Asadi
+#
+-[Github] (https://github.com/ahaa89)
+-[Resume] (https://github.com/ahaa89/Resume)
+-[Sop] (https://github.com/ahaa89/SOP/blob/main/README.md)
+-[Patchwork] (https://github.com/ahaa89/patchwork.git)
 
-<!---
-ahaa89/ahaa89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
